@@ -1,3 +1,4 @@
+Built with AI assistance and tested on Windows.
 <img width="970" height="609" alt="codex-build-result" src="https://github.com/user-attachments/assets/631b004c-1e86-4415-9c99-2872736fe4c1" />
 <img width="701" height="232" alt="project-structure" src="https://github.com/user-attachments/assets/7dcd6c35-37b2-40fa-b2aa-60ae4bec8fa0" />
 <img width="645" height="489" alt="mp3-output-proof" src="https://github.com/user-attachments/assets/56b15daf-c63c-4f06-9ac8-ddfee6b667f3" />
